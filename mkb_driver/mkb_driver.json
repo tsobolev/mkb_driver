@@ -1,0 +1,7 @@
+{
+  "name": "mkb_driver",
+  "description": "mouse and keyboard contorl for linux",
+  "path": "PATH_TO_MKB_DRIVER/mkb_driver.py",
+  "type": "stdio",
+  "allowed_extensions": [ "requestShark@tsobolev.dev" ]
+}
